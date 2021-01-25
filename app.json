@@ -1,0 +1,12 @@
+{
+  "name": "bon-coin",
+  "displayName": "bon-coin",
+  "expo": {
+    "name": "bon-coin",
+    "slug": "bon-coin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
